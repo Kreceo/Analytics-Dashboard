@@ -1,2 +1,2 @@
 # Analytics-Dashboard
-Custom analytics dashboard using Googles analytics V4 reporting api
+Custom built analytics dashboard connected to google analytics reporting API
