@@ -1,0 +1,8 @@
+vendor
+composer.lock
+.env
+php
+node_modules
+package-lock.json
+.vscode
+service-account-credentials.json
