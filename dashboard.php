@@ -388,8 +388,6 @@
 
          <!--  This is the slide out menu, which is mainly for mobile -->
          <?php include './includes/slideout.php' ?>
-
-      <!-- JS for analytics dashboard -->
-      <script src="./assets/js/analytics.js"></script>
+         
    </body>
 </html>

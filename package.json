@@ -1,7 +1,7 @@
 {
   "name": "analytics-dashboard",
   "version": "1.0.0",
-  "description": "Custom built analytics dashboard connected to google analytics reporting API",
+  "description": "Custom built analytics dashboard connected to google analytics reporting API by Darrell Lane",
   "main": "index.js",
   "dependencies": {
     "estraverse": "^5.2.0",
@@ -24,12 +24,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kreceo/Analytics_Dashboard.git"
+    "url": "git+https://github.com/Kreceo/Analytics-Dashboard.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kreceo/Analytics_Dashboard/issues"
+    "url": "https://github.com/Kreceo/Analytics-Dashboard/issues"
   },
-  "homepage": "https://github.com/Kreceo/Analytics_Dashboard#readme"
+  "homepage": "https://github.com/Kreceo/Analytics-Dashboard#readme"
 }

@@ -2,7 +2,5 @@
     "require": {
         "google/apiclient": "^2.0",
         "guzzlehttp/guzzle": "^6.3",
-        "vlucas/phpdotenv": "^5.2",
-        "sailthru/sailthru-php5-client": "^1.2"
     }
 }
